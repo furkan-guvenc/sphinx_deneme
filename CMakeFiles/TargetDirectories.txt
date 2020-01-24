@@ -1,0 +1,8 @@
+C:/Users/Cezeri_NPC/source/repos/CatCutifier/CMakeFiles/INSTALL.dir
+C:/Users/Cezeri_NPC/source/repos/CatCutifier/CMakeFiles/ALL_BUILD.dir
+C:/Users/Cezeri_NPC/source/repos/CatCutifier/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Cezeri_NPC/source/repos/CatCutifier/CatCutifier/CMakeFiles/CatCutifier.dir
+C:/Users/Cezeri_NPC/source/repos/CatCutifier/CatCutifier/CMakeFiles/INSTALL.dir
+C:/Users/Cezeri_NPC/source/repos/CatCutifier/docs/CMakeFiles/Doxygen.dir
+C:/Users/Cezeri_NPC/source/repos/CatCutifier/docs/CMakeFiles/Sphinx.dir
+C:/Users/Cezeri_NPC/source/repos/CatCutifier/docs/CMakeFiles/INSTALL.dir

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Cezeri_NPC\source\repos\CatCutifier\CMakeFiles\31125204cc7f9ba1e07268527d0e174d\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{07828164-5BA9-3A9F-AB5A-81C4985485FC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

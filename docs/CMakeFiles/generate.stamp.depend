@@ -1,0 +1,8 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.16/Modules/FindDoxygen.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/GNUInstallDirs.cmake
+C:/Users/Cezeri_NPC/source/repos/CatCutifier/cmake/FindSphinx.cmake
+C:/Users/Cezeri_NPC/source/repos/CatCutifier/docs/CMakeLists.txt
+C:/Users/Cezeri_NPC/source/repos/CatCutifier/docs/Doxyfile.in

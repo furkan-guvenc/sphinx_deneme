@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Cezeri_NPC\source\repos\CatCutifier\CatCutifier\CatCutifier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Cezeri_NPC\source\repos\CatCutifier\CatCutifier\CatCutifier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Cezeri_NPC\source\repos\CatCutifier\CatCutifier\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0084672C-974D-3DAE-B5FA-E157D4EAC1B8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C15CD666-23D7-3704-A290-43F0B69B53AD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
